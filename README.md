@@ -1,4 +1,4 @@
-# Hello World! This is Askari 👋
+# Hello World! This is Askari 👋🏻
 I'm a developer who loves turning ideas into real, useful software. Whether it's building full SaaS platforms or solving everyday problems with code—I’m all in.<br><br>🔧 Currently building: smart tools for businesses to work better and faster.<br>🤝 Open to collaborate on: Laravel, SaaS products, and clean backend systems.<br>🧠 Happy to help with: database design, bug fixing, and feature planning.<br>💬 Ask me about: web development, product ideas, or how to get started with SaaS.
 
 
